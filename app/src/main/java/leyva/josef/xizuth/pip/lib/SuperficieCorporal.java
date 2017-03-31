@@ -9,6 +9,7 @@ package leyva.josef.xizuth.pip.lib;
 
 public class SuperficieCorporal {
 
+    public static final int K_SC_10 = 10;
     public static final int K_MORE_10 = 7;
     public static final int K_MORE_10_DIVIDE = 90;
     public static final int K_LESS_10_DIVIDE = 100;

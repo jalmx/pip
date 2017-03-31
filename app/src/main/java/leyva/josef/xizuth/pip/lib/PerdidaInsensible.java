@@ -42,7 +42,7 @@ public class PerdidaInsensible {
     }
 
     /**@return el total en mililitros a suministrar*/
-    public double piTotal(){
+    public double getPITotal(){
         return piF + piNF;
     }
 

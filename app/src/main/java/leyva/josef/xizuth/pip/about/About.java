@@ -1,0 +1,17 @@
+package leyva.josef.xizuth.pip.about;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+import leyva.josef.xizuth.pip.R;
+
+public class About extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_about);
+    }
+
+
+}

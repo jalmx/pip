@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PIP</string>
+
+    <string name="button_calculate">Calcular</string>
+    <string name="about">Acerca de</string>
+
+    <!-- Textos-->
+    <string name="turn">Turno</string>
+    <string name="weight">Peso</string>
+    <string name="time_fever">Tiempo fiebre</string>
+
+    <string name="kgs">Kgs</string>
+    <string name="hrs">Hrs</string>
+
+    <string name="result">resultado</string>
+
+    <!-- Autores-->
+    <string name="develop">Desarrollado por:</string>
+    <string name="xizuth">Alejandro Leyva</string>
+    <string name="gus">Gustavo Maravilla</string>
+
+    <string name="lic">Enfermero</string>
+    <string name="dev">Programador</string>
+
+    <string name="information">Disfruta la app</string>
+
+    <!-- list-->
+    <array name="turns">
+        <item>8 hrs</item>
+        <item>12 hrs</item>
+        <item>Otro</item>
+    </array>
+
+</resources>

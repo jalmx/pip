@@ -4,9 +4,9 @@
 App para el cálculo de Pérdida Insensible Pediatría
 ```
 
-* Vista: ![alt text][front_1] 
-* Vista: ![alt text][front_2] 
-* Vista: ![alt text][front_3] 
+* ![alt text][front_1] 
+* ![alt text][front_2] 
+* ![alt text][front_3] 
 
 [front_1]: https://github.com/jalmx89/pip/blob/master/imgs/front_1.png "Vista 1"
 [front_2]: https://github.com/jalmx89/pip/blob/master/imgs/front_2.png "Vista 2"

@@ -24,7 +24,6 @@ public class PerdidaInsensible {
     public PerdidaInsensible(double sc, double hrsWithFever, double TURN) {
         this.TURN = TURN;
         piF = piFever(sc, hrsWithFever);
-
         piNF = piNoFever(sc, TURN - hrsWithFever);
     }
 

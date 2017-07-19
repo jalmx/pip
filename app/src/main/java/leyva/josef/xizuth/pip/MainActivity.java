@@ -125,9 +125,7 @@ public class MainActivity extends AppCompatActivity {
     private double superficieCorporal(double w) {
         double r;
         if (w <= SuperficieCorporal.K_SC_10) {
-
             r = SuperficieCorporal.scLess10(w);
-
         } else {
             r = SuperficieCorporal.scMore10(w);
         }
